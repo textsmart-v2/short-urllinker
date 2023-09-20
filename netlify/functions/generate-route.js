@@ -7,7 +7,7 @@ exports.handler = (event, context, callback) => {
 
   // Set the root URL according to the Netlify site we are within
   // var rootURL = process.env.URL + "/";
-  var rootURL = "https://linkylinky.netlify.app/";
+  var rootURL = "https://short-urllinker.netlify.app/";
 
   // get the details of what we are creating
   var destination = event.queryStringParameters['to'];
