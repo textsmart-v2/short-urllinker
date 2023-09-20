@@ -1,14 +1,14 @@
 ![LinkyLinky screengrab](screenshot.jpg)
 
 
-# LinkyLinky
+# short-urllinker
 
 A little URL shortener of your own.
 
 
 ## Example
 
-[linkylinky.netlify.com](https://linkylinky.netlify.com)
+[short-urllinker.netlify.com](https://short-urllinker.netlify.com)
 
 
 ## Description
